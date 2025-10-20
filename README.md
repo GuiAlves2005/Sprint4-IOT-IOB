@@ -13,18 +13,10 @@ Reconhecimento facial (Python + Dlib + SQLite) – faz a detecção, cadastro e 
 Aplicação web (Flask + HTML + Tailwind) – exibe o painel do usuário autenticado.
 
 Estrutura do Projeto
-invest-mind/
-│
-├── script.py                         # Código principal de reconhecimento facial
-├── dlib_face_recognition_resnet_model_v1.dat
-├── shape_predictor_5_face_landmarks.dat
-├── faces.db                          # Banco de dados SQLite compartilhado
-│
-└── webapp/
-    ├── app.py                        # Aplicação Flask (painel web)
-    └── templates/
-        ├── index.html                # Tela inicial (aguarda validação facial)
-        └── dashboard.html            # Painel de investimentos após login
+
+<img width="874" height="391" alt="image" src="https://github.com/user-attachments/assets/0ce2f131-5bda-4e98-8d8a-c380f7d5bdad" />
+
+
 
 Instruções de Execução
 1. Instalação dos requisitos
